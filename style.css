@@ -1,0 +1,28 @@
+html {
+  background-color: PapayaWhip;
+}
+
+#title {
+  text-align: center;
+  background-color: DarkRed;
+  color: MistyRose;
+  border-radius: 10px;
+}
+
+#text {
+  width: 45%;
+  Height: 250px;
+}
+
+#textinput{
+  border-radius: 50px;
+  width: 300px;
+}
+
+.element {
+  width: fit-content;
+  margin: 5px;
+  padding: 5px;
+  background-color: Moccasin;
+  border-radius: 10px;
+}
